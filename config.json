@@ -5,7 +5,7 @@
         "phone"     : "909 923 9941",
         "email"     : "ivynailsspa123@gmail.com",
         "address"   : "3055 S Archibald Ave Suite D Ontario, CA 91761",
-        "time_1"    : "Mon - Sat 10:30 AM - 7:00 PM",
+        "time_1"    : "Mon - Sat: 9:30 AM - 7:00 PM",
         "time_2"    : "Sun 10:00 AM - 5:00 PM"
     },
     "url":  {
@@ -30,5 +30,5 @@
     },
     "debug":        "off",
     "path_image":   "assets/images",
-    "domain":       "http://127.0.0.1:5500/"
+    "domain":       "https://ivynailspaca.com/"
 }
